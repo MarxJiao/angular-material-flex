@@ -1,3 +1,6 @@
+# 项目介绍
+[使用angular + material 2 + flex-layout 开发项目](http://marxjiao.com/2017/02/26/angular-material-flex/)
+
 # AngularMaterialFlex
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
