@@ -1,5 +1,5 @@
 # 项目介绍
-[使用angular + material 2 + flex-layout 开发项目](http://marxjiao.com/2017/02/26/angular-material-flex/)
+[使用angular + material 2 + flex-layout 开发项目](http://marxjiao.com/2017/02/25/angular-material-flex/)
 
 # AngularMaterialFlex
 
